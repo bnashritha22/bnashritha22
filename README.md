@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>An Expense Tracker application focused on helping users understand their spending habits, not just record expenses.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Java projects, open-source tools, or ideas related to finance, productivity, or student-centric apps.<br><br>🤝 I’m looking for help with<br>Improving backend logic, database design, and writing clean, scalable Java code.<br><br>💬 Ask me about<br>Java basics, mini-projects, UI/UX ideas, student projects, or how I’m learning tech step by step.<br><br>⚡ Fun fact<br>I love turning simple ideas into projects — and I prefer coffee over chai ☕ 😄
+💫 About Me
+
+🎓 Education  
+Currently pursuing a B.E. in Information Science and Engineering with a growing interest in software development and technology.
+
+👯 Collaboration  
+Open to collaborating on beginner-friendly Java projects, open-source contributions, and ideas related to productivity or student-focused applications.
+
+🤝 Areas of Growth  
+Focused on strengthening programming fundamentals, improving problem-solving skills, and gaining deeper knowledge of backend development and databases.
+
+💬 Ask Me About  
+Java fundamentals, academic mini-projects, basic web development concepts, and UI/UX ideas.
+
+🎨 Interests  
+Along with technology, I have a strong passion for art and creativity, which helps me approach ideas and problem solving from a unique perspective.
 
 
 ## 🌐 Socials:
